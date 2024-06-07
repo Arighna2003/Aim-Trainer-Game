@@ -49,7 +49,7 @@ Proceed to the next level by clicking the "Next Level" button on the end screen.
 6. Open a Pull Request.
 
 ## License
-This project is licensed under the [LICENSE]{MIT License}
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 Pygame - The library used to create this game.
