@@ -40,6 +40,9 @@ Avoid missing targets as it reduces your lives.
 Check your performance in terms of time, speed, hits, and accuracy on the top bar.
 Proceed to the next level by clicking the "Next Level" button on the end screen.
 
+![image](https://github.com/Arighna2003/Aim-Trainer-Game/assets/121758941/08eb336f-a3eb-4958-9008-ce0149c4ce25)
+
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch (git checkout -b feature-branch).
